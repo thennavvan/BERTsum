@@ -8,6 +8,7 @@ Preprocessed into sentence-level units.
 Weak supervision via ROUGE scoring used to label sentences as “summary-worthy.”
 
 ⚙️** Methodology**
+
 **Sentence Embedding:**
 Fine-tuned BERT and SBERT to encode sentences.
 **Label Generation:**
